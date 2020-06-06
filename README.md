@@ -24,7 +24,7 @@
   
 </p>
 
-## Web
+## Web/Mobile
 
 ![](https://github.com/tiagoleal/ecoleta_nlw01/blob/master/web/src/assets/ecoleta.gif)
 
